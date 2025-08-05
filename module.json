@@ -1,0 +1,30 @@
+{
+  "id": "seasons-and-stars-azure-realms",
+  "title": "Azure Realms Calendar",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "MTVExtreme",
+      "email": "mtvextreme1998@gmail.com",
+      "discord": "mtvextreme",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "seasons-and-stars",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": ""
+}

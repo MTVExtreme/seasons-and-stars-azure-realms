@@ -4,8 +4,30 @@
   "version": "1.0.0",
   "author": "MTVExtreme",
   "calendars":[
-    "axiem.json",
-    "shaymia.json"
+    {
+      "id": "axiem",
+      "name": "Axiem Calendar (The Azure Realms)",
+      "description": "The standard calendar of Axiem, featuring twelve 32-day months. Used throughout the Azure Realms setting in TTRPG campaigns.",
+      "file": "axiem.json",
+      "preview": "Sample format from Axiem",
+      "tags": [
+        "fantasy",
+        "homebrew"
+      ],
+      "author": "MTVExtreme"
+    },
+    {
+      "id": "shaymia",
+      "name": "Shaymian Calendar (The Azure Realms)",
+      "description": "The standard calendar of Shaymia, featuring twelve 32-day months. Used throughout the Azure Realms setting in TTRPG campaigns.",
+      "file": "shaymia.json",
+      "preview": "Sample format from Shaymia",
+      "tags": [
+        "fantasy",
+        "homebrew"
+      ],
+      "author": "MTVExtreme"
+    }
   ],
    "tags": ["fantasy", "homebrew"]
 }

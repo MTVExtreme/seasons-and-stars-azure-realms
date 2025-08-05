@@ -1,7 +1,7 @@
 {
   "name": "Azure Realms Calendar Pack",
   "description": "Calendars for the Azure Realms setting, including the Axiem and Shaymian Calendars and their Lunar Calendars.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "MTVExtreme",
   "calendars":[
     "axiem.json",

@@ -22,74 +22,74 @@
     "months": [
         {
             "name": "Co-Za",
-            "days": "32",
+            "days": 32,
             "description": "The first month of spring, first of the year, a time of renewal and growth. Named for the coza flowers that bloom during this season.",
             "abbreviation": "Cza"
         },
         {
             "name": "New-Za",
-            "days": "32",
+            "days": 32,
             "description": "The second month of spring, second of the year, known for its vibrant colors and fresh beginnings. Named for the newza trees that blossom during this time.",
             "abbreviation": "Nza"
         },
         {
             "name": "Ru-Za",
-            "days": "32",
+            "days": 32,
             "description": "The third month of spring, third of the year, a time of rejuvenation and hope. Named for the ruza flowers that symbolize new life.",
             "abbreviation": "Rza"
         },
         {
             "name": "Fa-Sol",
-            "days": "32",
+            "days": 32,
             "description": "The first month of summer, fourth of the year, characterized by warmth and brightness. Named for the fasol trees that thrive in the summer sun.",
             "abbreviation": "Fol"
         },
         {
             "name": "Fey-Sol",
-            "days": "32",
+            "days": 32,
             "description": "The second month of summer, fifth of the year, known for its lush greenery and vibrant life. Named for the feysol flowers that bloom during this time.",
             "abbreviation": "Fol"
         },
         {
             "name": "Mon-Sol",
-            "days": "32",
+            "days": 32,
             "description": "The third month of summer, sixth of the year, a time of abundance and joy. Named for the monsol trees that bear fruit in the summer.",
             "abbreviation": "Mol"
         },
         {
             "name": "Fe-Dus",
-            "days": "32",
+            "days": 32,
             "description": "The first month of fall, seventh of the year, marking the transition to cooler weather. Named for the fedus flowers that change color in autumn.",
             "abbreviation": "Fus"
         },
         {
             "name": "Ka-Dus",
-            "days": "32",
+            "days": 32,
             "description": "The second month of fall, eighth of the year, known for its golden hues and the harvest season. Named for the kadus trees that bear fruit during this time.",
             "abbreviation": "Kus"
         },
         {
             "name": "Ma-Dus",
-            "days": "32",
+            "days": 32,
             "description": "The third month of fall, ninth of the year, a time of reflection and preparation for winter. Named for the madus trees that prepare for the cold months ahead.",
             "abbreviation": "Mus"
         },
 
         {
             "name": "Ka-Dawn",
-            "days": "32",
+            "days": 32,
             "description": "The first month of winter, tenth of the year, marking the onset of cold weather and snow. Named for the kadawn flowers that bloom in the frost.",
             "abbreviation": "Kwn"
         },
         {
             "name": "O-Dawn",
-            "days": "32",
+            "days": 32,
             "description": "The second month of winter, eleventh of the year, known for its harsh conditions and long nights. Named for the odawn trees that endure the cold.",
             "abbreviation": "Own"
         },
         {
             "name": "No-Dawn",
-            "days": "32",
+            "days": 32,
             "description": "The third month of winter, twelfth of the year, a time of endurance and survival. Named for the nodawn trees that thrive in the harshest conditions.",
             "abbreviation": "Nwn"
         }

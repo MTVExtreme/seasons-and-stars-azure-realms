@@ -23,73 +23,73 @@
     "months": [
         {
             "name": "Carmad",
-            "days": "32",
+            "days": 32,
             "description": "The first month of the year, marking the beginning of spring. Named for the renewal of life and the blooming of flowers.",
             "abbreviation": "Car"
         },
         {
             "name": "Gilmad",
-            "days": "32",
+            "days": 32,
             "description": "The second month of spring, second of the year, known for its vibrant growth and the flourishing of nature. Named for the golden hues of blooming flowers.",
             "abbreviation": "Gil"
         },
         {
             "name": "Optimad",
-            "days": "32",
+            "days": 32,
             "description": "The third month of spring, third of the year, a time of optimism and new beginnings. Named for the optimism that comes with the season's growth.",
             "abbreviation": "Opt"
         },
         {
             "name": "Pylux",
-            "days": "32",
+            "days": 32,
             "description": "The first month of summer, forth of the year, characterized by warmth and long days. Named for the bright light of the sun during this season.",
             "abbreviation": "Pyl"
         },
         {
             "name": "Tegalux",
-            "days": "32",
+            "days": 32,
             "description": "The second month of summer, fifth of the year, known for its lush landscapes and vibrant life. Named for the teeming life that flourishes in the summer sun.",
             "abbreviation": "Teg"
         },
         {
             "name": "Kedlux",
-            "days": "32",
+            "days": 32,
             "description": "The third month of summer, sixth of the year, a time of abundance and harvest. Named for the kedl flowers that bloom during this season.",
             "abbreviation": "Ked"
         },
         {
             "name": "Yidfol",
-            "days": "32",
+            "days": 32,
             "description": "The first month of fall, seventh of the year, marking the transition from summer to autumn. Named for the yidfol trees that shed their leaves during this time.",
             "abbreviation": "Yid"
         },
         {
             "name": "Solfol",
-            "days": "32",
+            "days": 32,
             "description": "The second month of fall, eighth of the year, known for its golden hues and the harvest season. Named for the solfol trees that bear fruit during this time.",
             "abbreviation": "Sol"
         },
         {
             "name": "Layfol",
-            "days": "32",
+            "days": 32,
             "description": "The third month of fall, ninth of the year, a time of reflection and preparation for winter. Named for the layfol trees that prepare for the cold months ahead.",
             "abbreviation": "Lay"
         },
         {
             "name": "Breggnum",
-            "days": "32",
+            "days": 32,
             "description": "The first month of winter, tenth of the year, marking the onset of cold weather and snow. Named for the bregg flowers that bloom in the frost.",
             "abbreviation": "Brg"
         },
         {
             "name": "Frignum",
-            "days": "32",
+            "days": 32,
             "description": "The second month of winter, eleventh of the year, known for its harsh conditions and long nights. Named for the frignum trees that endure the cold.",
             "abbreviation": "Fri"
         },
         {
             "name": "Ruggnum",
-            "days": "32",
+            "days": 32,
             "description": "The third month of winter, twelfth of the year, a time of endurance and survival. Named for the ruggnum trees that thrive in the harshest conditions.",
             "abbreviation": "Rug"
         }

@@ -142,7 +142,7 @@
       {
       "name": "Zen",
       "cycleLength": 32,
-      "firstNewMoon": { "year": 0, "month": 1, "day": 1 },
+      "firstNewMoon": { "year": 1573, "month": 1, "day": 1 },
       "phases": [
         { "name": "New Moon", "length": 3.875, "singleDay": false, "icon": "new" },
         { "name": "Waxing Crescent", "length": 3.875, "singleDay": false, "icon": "waxing-crescent" },
@@ -164,7 +164,7 @@
     {
       "name": "Luna",
       "cycleLength": 8,
-      "firstNewMoon": { "year": 0, "month": 1, "day": 1 },
+      "firstNewMoon": { "year": 1573, "month": 1, "day": 1 },
       "phases": [
           { "name": "New Moon", "length": 1, "singleDay": true, "icon": "new" },
         { "name": "Waxing Crescent", "length": 1, "singleDay": true, "icon": "waxing-crescent" },

@@ -139,28 +139,7 @@
     ],
 
     "moons": [
-         {
-      "name": "Royallem",
-      "cycleLength": 384,
-      "firstNewMoon": { "year": 1423, "month": 1, "day": 1 },
-      "phases": [
-        { "name": "New Moon", "length": 48, "singleDay": false, "icon": "new" },
-        { "name": "Waxing Crescent", "length": 48, "singleDay": false, "icon": "waxing-crescent" },
-        { "name": "First Quarter", "length": 48, "singleDay": false, "icon": "first-quarter" },
-        { "name": "Waxing Gibbous", "length": 48, "singleDay": false, "icon": "waxing-gibbous" },
-        { "name": "Full Moon", "length": 48, "singleDay": false, "icon": "full" },
-        { "name": "Waning Gibbous", "length": 48, "singleDay": false, "icon": "waning-gibbous" },
-        { "name": "Last Quarter", "length": 48, "singleDay": false, "icon": "last-quarter" },
-        { "name": "Waning Crescent", "length": 48, "singleDay": false, "icon": "waning-crescent" }
-      ],
-      "color": "#E4A2FF",
-      "translations": {
-        "en": {
-          "description": "Largest moon, attributed to Emroy the over goddess"
-        }
-      }
-    },
-      {
+              {
       "name": "Acrowsha",
       "cycleLength": 32,
       "firstNewMoon": { "year": 1423, "month": 1, "day": 1 },
@@ -179,6 +158,27 @@
       "translations": {
         "en": {
           "description": "Second largest moon attributed to Phantom Blackbird."
+        }
+      }
+    },
+         {
+      "name": "Royallem",
+      "cycleLength": 384,
+      "firstNewMoon": { "year": 1423, "month": 1, "day": 1 },
+      "phases": [
+        { "name": "New Moon", "length": 48, "singleDay": false, "icon": "new" },
+        { "name": "Waxing Crescent", "length": 48, "singleDay": false, "icon": "waxing-crescent" },
+        { "name": "First Quarter", "length": 48, "singleDay": false, "icon": "first-quarter" },
+        { "name": "Waxing Gibbous", "length": 48, "singleDay": false, "icon": "waxing-gibbous" },
+        { "name": "Full Moon", "length": 48, "singleDay": false, "icon": "full" },
+        { "name": "Waning Gibbous", "length": 48, "singleDay": false, "icon": "waning-gibbous" },
+        { "name": "Last Quarter", "length": 48, "singleDay": false, "icon": "last-quarter" },
+        { "name": "Waning Crescent", "length": 48, "singleDay": false, "icon": "waning-crescent" }
+      ],
+      "color": "#E4A2FF",
+      "translations": {
+        "en": {
+          "description": "Largest moon, attributed to Emroy the over goddess"
         }
       }
     },

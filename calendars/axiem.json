@@ -15,6 +15,10 @@
     "startDay": 0
   },
 
+  "leapYear": {
+    "rule": "none"
+  },
+
     "months": [
         {
             "name": "Carmad",
@@ -199,7 +203,10 @@
       }
     }
     ],
-      "seasons": [
+
+    "intercalary": [],
+
+    "seasons": [
     {
       "name": "Winter",
       "startMonth": 10,

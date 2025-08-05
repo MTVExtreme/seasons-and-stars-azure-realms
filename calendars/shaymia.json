@@ -15,6 +15,10 @@
     "startDay": 0
   },
 
+  "leapYear": {
+    "rule": "none"
+  },
+
     "months": [
         {
             "name": "Co-Za",
@@ -179,7 +183,10 @@
       }
     }
     ],
-      "seasons": [
+
+    "intercalary": [],
+
+    "seasons": [
     {
       "name": "Winter",
       "startMonth": 10,
